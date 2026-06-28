@@ -220,7 +220,7 @@ The application is fully responsive for
 Live Demo
 
 ```
-Add Vercel Link Here
+https://employee-management-dashboard-five.vercel.app/
 ```
 
 ---
@@ -228,7 +228,7 @@ Add Vercel Link Here
 # 💻 GitHub Repository
 
 ```
-Add GitHub Repository Link Here
+https://github.com/OMPRAKASHKARRI/Employee-Management-Dashboard
 ```
 
 ---
