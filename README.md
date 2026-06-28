@@ -8,11 +8,13 @@ The application provides a complete user management experience with advanced sea
 
 ## 📸 Project Preview
 
-> Add screenshots of your application here after deployment.
 
-### Dashboard
 
-![Dashboard Screenshot](./screenshots/dashboard.png)
+<img width="1873" height="905" alt="Screenshot 2026-06-28 122926" src="https://github.com/user-attachments/assets/b098baab-0ca9-40d0-8611-c7dcb26ae667" />
+
+<img width="1537" height="885" alt="Screenshot 2026-06-28 123111" src="https://github.com/user-attachments/assets/6ee4a56e-390b-49f1-9b31-33a0f9a88de7" />
+
+
 
 ---
 
